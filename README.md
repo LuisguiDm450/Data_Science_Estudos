@@ -1,2 +1,2 @@
 # Data_Science_Estudos
-### Esta página estará registrado meus estudo relacionados a Analise de Dados.
+### Esta página irá conter meus estudos relacionados a Analise de Dados.
